@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJ2WAsRvJmGnLuH7dron7xRUMt17LQ0xg+v5UFsHh12N456BhJBsC3XHwm/QUGCYiJaehvYGQ2BUG+O9miuBnQ==",
+  "success": true,
+  "projectFilePath": "C:\\dotnet\\dotnet31\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petteri\\.nuget\\packages\\prometheus-net\\3.5.0\\prometheus-net.3.5.0.nupkg.sha512",
+    "C:\\Users\\Petteri\\.nuget\\packages\\prometheus-net.aspnetcore\\3.5.0\\prometheus-net.aspnetcore.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
